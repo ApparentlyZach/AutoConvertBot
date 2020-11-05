@@ -273,4 +273,4 @@ class Conversions:
         Value = 0
         Unit = ""
 		
-client.run('<your_bot_id_here>') #Discord Bot ID
+client.run('<your_bot_token_here>') #Discord Bot Token
